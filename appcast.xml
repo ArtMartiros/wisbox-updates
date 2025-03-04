@@ -4,5 +4,28 @@
         <title>Wisbox Updates</title>
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
+        <item>
+            <title>Version 0.0.1</title>
+            <description><![CDATA[
+                <h2>Version 0.0.1</h2>
+                <ul>
+                    <li>New version release</li>
+                </ul>
+            ]]>
+            </description>
+            <pubDate>вт, 04 мар 2025 14:50:31 +0300</pubDate>
+            <sparkle:version>0.0.1</sparkle:version>
+            <sparkle:shortVersionString>0.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/ArtMartiros/wisbox-updates/releases/download/v0.0.1/Wisbox-0.0.1.zip"
+                sparkle:version="0.0.1"
+                sparkle:shortVersionString="0.0.1"
+                type="application/octet-stream"
+                sparkle:minimumSystemVersion="13.0"
+                length="17345795"
+                sparkle:edSignature="HDY1ltEEiX9zWDXU8triex8Ot/HuejcclmppR3Kapovxq5pGYp8nUd6De+9LW2Uzso+uCSS8D3+XxnTA4dD4BQ=="
+            />
+        </item>
     </channel>
 </rss>
