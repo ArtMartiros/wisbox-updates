@@ -11,6 +11,9 @@
             <sparkle:shortVersionString>0.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/ArtMartiros/wisbox-updates/releases/download/v0.0.2/Wisbox-0.0.2.zip" length="17346657" type="application/octet-stream" sparkle:edSignature="b4hK26UhFIX6js3g3pxZ2pBJdcWrPpW+elepWOEmOf9EABA18U3RjIRz7qpN+301epA3kbLiMXpOdXbM8AGEDQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/ArtMartiros/wisbox-updates/releases/download/v0.0.2/Wisbox2-1.delta" sparkle:deltaFrom="1" length="547362" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864864" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="c4YcyUOIh4upbCGnIRfq/NtmMdBiWck/FWheF1KM3fLpTANjIcqWEvJRfXBZdlcA0j9LNreMmBF2LGhOVwTbBg=="/>
+            </sparkle:deltas>
         </item>
         <item>
             <title>0.0.1</title>
