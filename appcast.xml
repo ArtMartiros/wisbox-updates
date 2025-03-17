@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Wisbox</title>
+        <item>
+            <title>0.0.1</title>
+            <pubDate>Mon, 17 Mar 2025 13:41:43 +0300</pubDate>
+            <link>https://wisbox.ai</link>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/ArtMartiros/wisbox-updates/main/release-notes/Wisbox-0.0.1.html</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/ArtMartiros/wisbox-updates/releases/download/Wisbox-0.0.1.dmg" length="18719456" type="application/octet-stream" sparkle:edSignature="boixeXPy+L0J8OqiX2JaU9xE72/SK3IuK4sVwkYBcW1pUSlngJrwTGFy4bCAFshgOnUw5Dk1cPeV1W9GjsTFBA=="/>
+        </item>
+    </channel>
+</rss>
