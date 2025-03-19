@@ -3,6 +3,20 @@
     <channel>
         <title>Wisbox</title>
         <item>
+            <title>0.0.3</title>
+            <pubDate>Wed, 19 Mar 2025 18:32:14 +0300</pubDate>
+            <link>https://wisbox.ai</link>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.0.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/ArtMartiros/wisbox-updates/main/release-notes/Wisbox-0.0.3.html</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/ArtMartiros/wisbox-updates/releases/download/v0.0.3/Wisbox-0.0.3.dmg" length="19737028" type="application/octet-stream" sparkle:edSignature="IwfAzQV3Ay4enQsrNK1gc7Y89TEBQl4kXlGkaSM7M+8WvXNQHQZ/dLU2ujDb62bTfDEZsjKwIZRDkPVCLxuoBQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/ArtMartiros/wisbox-updates/releases/download/v0.0.3/Wisbox3-2.delta" sparkle:deltaFrom="2" length="2796734" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864864" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="CmQPTTaJAgAfqDmZRg9bW5ws+KvnFkBGp9P3hHIBMUS1zcBOUDRlIZM7XebZsHI+aBtozrg51Rw2wIdxbwXMCw=="/>
+                <enclosure url="https://github.com/ArtMartiros/wisbox-updates/releases/download/v0.0.3/Wisbox3-1.delta" sparkle:deltaFrom="1" length="2796562" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864864" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="xeyQACAhlJ/kDfoIn88z7lqIzVwILxEgNv4OUp6VaNaTQ+142zsQ3AmZbM9Hnhnucw0/ujaIo/PUK06ODZeECQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.0.2</title>
             <pubDate>Mon, 17 Mar 2025 15:23:16 +0300</pubDate>
             <link>https://wisbox.ai</link>
