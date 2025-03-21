@@ -3,6 +3,16 @@
     <channel>
         <title>Wisbox</title>
         <item>
+            <title>0.0.4</title>
+            <pubDate>Fri, 21 Mar 2025 09:25:03 +0300</pubDate>
+            <link>https://wisbox.ai</link>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.0.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/ArtMartiros/wisbox-updates/main/release-notes/Wisbox-0.0.4.html</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/ArtMartiros/wisbox-updates/releases/download/v0.0.4/Wisbox-0.0.4.dmg" length="19074722" type="application/octet-stream" sparkle:edSignature="cExrJ9r7JghmijSki2aRv6+sQXCa/phZTXK0M6115RRAUvqIPyEyGe/aUnNFncAU5jDkicvq09GLATISvQs4Bw=="/>
+        </item>
+        <item>
             <title>0.0.3</title>
             <pubDate>Wed, 19 Mar 2025 18:32:14 +0300</pubDate>
             <link>https://wisbox.ai</link>
@@ -28,16 +38,6 @@
             <sparkle:deltas>
                 <enclosure url="https://github.com/ArtMartiros/wisbox-updates/releases/download/v0.0.2/Wisbox2-1.delta" sparkle:deltaFrom="1" length="35418" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864864" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="D8MBwkbWAzb00TXKhEGgSCurZcBQa/TIN3X3x5dYK3dJ9gyzuDKdn576ezpg0/DVENl7w2v6+pscG4oZOD8kCA=="/>
             </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.0.1</title>
-            <pubDate>Mon, 17 Mar 2025 13:41:43 +0300</pubDate>
-            <link>https://wisbox.ai</link>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>0.0.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/ArtMartiros/wisbox-updates/main/release-notes/Wisbox-0.0.1.html</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/ArtMartiros/wisbox-updates/releases/download/v0.0.1/Wisbox-0.0.1.dmg" length="18719456" type="application/octet-stream" sparkle:edSignature="boixeXPy+L0J8OqiX2JaU9xE72/SK3IuK4sVwkYBcW1pUSlngJrwTGFy4bCAFshgOnUw5Dk1cPeV1W9GjsTFBA=="/>
         </item>
     </channel>
 </rss>
