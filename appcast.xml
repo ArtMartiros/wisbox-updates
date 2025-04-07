@@ -3,6 +3,19 @@
     <channel>
         <title>Wisbox</title>
         <item>
+            <title>0.0.7</title>
+            <pubDate>Mon, 07 Apr 2025 10:23:40 +0300</pubDate>
+            <link>https://wisbox.ai</link>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>0.0.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/ArtMartiros/wisbox-updates/main/release-notes/Wisbox-0.0.7.html</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/ArtMartiros/wisbox-updates/releases/download/v0.0.7/Wisbox-0.0.7.dmg" length="30224356" type="application/octet-stream" sparkle:edSignature="KXshk3SWqRCy+raIZd3CFAYQfzyuAIfQeEjxk+gS+nWXY75VhfdFBGlCO1efK8bf19uC/qD0EeAmu4xvQUNRCg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/ArtMartiros/wisbox-updates/releases/download/v0.0.7/Wisbox7-6.delta" sparkle:deltaFrom="6" length="33926" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864864" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="+3PvdLHXnp9hhD98EK1WAYVo5mWsLj5pOyvuTi9DWzmmCYT6K45Oub2WvFusrGg33nIj+kF3UWxHINJvo53fBA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.0.6</title>
             <pubDate>Thu, 03 Apr 2025 17:49:52 +0300</pubDate>
             <link>https://wisbox.ai</link>
@@ -24,16 +37,6 @@
             <sparkle:deltas>
                 <enclosure url="https://github.com/ArtMartiros/wisbox-updates/releases/download/v0.0.5/Wisbox5-4.delta" sparkle:deltaFrom="4" length="13948366" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864864" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="MhlBZl1Vfqazp8WWI/QxUeg9QFPeEG+uEm33sE+tMEDELB/RZjiNJ6HnOPDujpAMJBFUZw0KVEaStE4KZSJlAA=="/>
             </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.0.4</title>
-            <pubDate>Fri, 21 Mar 2025 09:25:03 +0300</pubDate>
-            <link>https://wisbox.ai</link>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>0.0.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/ArtMartiros/wisbox-updates/main/release-notes/Wisbox-0.0.4.html</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/ArtMartiros/wisbox-updates/releases/download/v0.0.4/Wisbox-0.0.4.dmg" length="19074722" type="application/octet-stream" sparkle:edSignature="cExrJ9r7JghmijSki2aRv6+sQXCa/phZTXK0M6115RRAUvqIPyEyGe/aUnNFncAU5jDkicvq09GLATISvQs4Bw=="/>
         </item>
     </channel>
 </rss>
